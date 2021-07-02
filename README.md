@@ -1,4 +1,7 @@
 # HandEmojiDetection
 
-##Tools
+## Tools
+- OpenCV
+- Mediapipe
+- Python
 
